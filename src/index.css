@@ -59,5 +59,6 @@ img{
   480px) and (-webkit-device-pixel-ratio: 2) and (device-aspect-ratio: 2/3) {
     body {
       overflow-x: hidden;
+      background: rgb(2, 2, 67);
     }
 }

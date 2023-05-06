@@ -96,7 +96,9 @@ export const bwThemeDark = {
 
 export const blueThemeLight = {
     type: 'light',
-    primary: '#545fc4',
+    light: 'white',
+    gray: 'gray',
+    primary: 'rgb(2, 2, 67)',
     primary400: '#6e76c7',
     primary600: '#3644c9',
     primary80: '#545fc4cc',
